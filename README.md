@@ -1,4 +1,5 @@
 # SmogGuard AI 🛡️🌫️ — Predict. Explain. Protect.
+> Built with [@Maham411](https://github.com/Maham411) at Loopverse 3.0 Hackathon.
 
 **SmogGuard AI** is a policy-grounded air quality advisory engine and intelligence platform built for Lahore, Pakistan (Loopverse 3.0 Challenge). It combines statistical machine learning, domain-specific rule evaluation engines, and safety-guarded Large Language Models (LLMs) to deliver deterministic, verifiable decision support for public health alerts, school closures, vehicle restrictions, and industrial emissions controls.
 
